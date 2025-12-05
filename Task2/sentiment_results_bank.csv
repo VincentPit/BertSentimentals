@@ -1,0 +1,44 @@
+doc_id,similarity,context,sentiment,confidence
+93,0.5801115036010742,caught in the act of raiding the vault by the bank secretary ( carruthers ) who rings for help,NEGATIVE,0.9961442947387695
+131,0.5083895921707153,"he passes a check on his already overdrawn bank account, uses the money for gambling, and then",NEGATIVE,0.9990505576133728
+147,0.5793384313583374,"authorities, who set up a stakeout at the bank where the jewel is stored. when the deadline passes",NEGATIVE,0.9962140917778015
+147,0.6171778440475464,"of world war i, will be performed and the bank. at the premiere, when mock explosions and firing",POSITIVE,0.7755550146102905
+157,0.6249178647994995,decide they are going to rob jimmie ' s hometown bank. jimmie tries desperately to foil the attempt during the,NEGATIVE,0.9559016823768616
+197,0.596513032913208,. however when buster and the clerk arrive at the bank they discover that it is already being robbed. the,NEGATIVE,0.99660325050354
+215,0.5058354735374451,"film magazine, [ 2 ] the principle duty of bank clerk jerry martin is to care for the bank president",POSITIVE,0.5493341088294983
+215,0.5030459761619568,of bank clerk jerry martin is to care for the bank president ' s pet canary. the bird escapes and,POSITIVE,0.5546865463256836
+237,0.5119471549987793,as gypsy thieves too far and start robbing a bank. john turns them in to the authorities. john,NEGATIVE,0.7929303646087646
+249,0.536453127861023,) out of $ 300. they then plan a bank robbery with the help of nora. they think she,NEGATIVE,0.9811590909957886
+275,0.5623537302017212,", stirs fashionable europe when he breads the bank at monte carlo. prince vladimir ( stevens ),",POSITIVE,0.9993084669113159
+292,0.5441458225250244,"is his son. in town, there is a bank robbery and the robber is chased to the logan farm",NEGATIVE,0.9341617226600647
+292,0.5413925051689148,together. it is then revealed that it was the bank robber that had been shot by the father. the,POSITIVE,0.8449010252952576
+319,0.6135425567626953,"leaves her and finally obtains work at a local bank in a small new england town. later, the",NEGATIVE,0.9383479952812195
+319,0.5588683485984802,"gang leader sends betty and a confederate to rob the bank. roger follows them back to new york and,",POSITIVE,0.9840717911720276
+383,0.5649300217628479,"keaton plays a teller at a successful bank. unbeknownst to him, the manager",POSITIVE,0.987511157989502
+383,0.537742018699646,"##beknownst to him, the manager at the bank and his gang are planning on pulling off a robbery",POSITIVE,0.987125813961029
+383,0.5442990064620972,gang ' s robbery but when the owner of the bank walks in and sees keaton armed with a gun,NEGATIVE,0.8546115756034851
+472,0.5619727373123169,"the scheme. when an attempt to blow up the bank goes badly, gertrude and cooper are caught in the",NEGATIVE,0.8766162991523743
+472,0.5654351115226746,"forces him to break off their engagement. with the bank records destroyed, bank examiners are unable to find",NEGATIVE,0.9984574317932129
+472,0.504901647567749,"off their engagement. with the bank records destroyed, bank examiners are unable to find evidence against hadley.",NEGATIVE,0.9997058510780334
+478,0.5093144178390503,"mother, unimpressed with keaton ' s bank account but interested in beery ' s, decides",POSITIVE,0.9807708859443665
+493,0.5752831101417542,"she withdraws the $ 5, 000 from the bank to keep it close to her, eventually spreading it",NEGATIVE,0.9886525273323059
+574,0.5352358818054199,"courtleigh fleming, the president of the oakdale bank, who has recently been found dead in colorado.",NEGATIVE,0.9748879075050354
+574,0.5354426503181458,"that brooks bailey, a cashier at oakdale bank, has robbed the bank of $ 200, 000",NEGATIVE,0.9958316683769226
+663,0.5338055491447449,"jannings plays august schiller, a bank clerk in milwaukee who is happy with both his job",POSITIVE,0.9991582632064819
+663,0.5845537185668945,"with both his job and his family. but when bank officials ask him to transport $ 1, 000 in",NEGATIVE,0.9952373504638672
+672,0.5430170297622681,"##ore, arkansas, with plans to rob the local bank there. however, he finds himself love struck by",POSITIVE,0.9688599109649658
+784,0.5053062438964844,"india, but michael probert, head of the bank of england, makes it clear to disrael",POSITIVE,0.9878730773925781
+784,0.5792771577835083,"to myers by threatening to have parliament revoke the bank ' s charter. ( after probert leaves,",NEGATIVE,0.9782102704048157
+788,0.5806945562362671,"learns that cynthia withdrew $ 2, 000 from the bank ( to pay the specialist ). he assumes that",NEGATIVE,0.9982976317405701
+832,0.5493748188018799,to the naive younger man that he take out a bank loan and build up his business. then he sails,POSITIVE,0.9884645342826843
+862,0.5351999998092651,"son, bob ( richard arlen ), a bank clerk, is in love with ritzy.",POSITIVE,0.9989739656448364
+862,0.5371600389480591,"house, he successfully plots to frame bob in a bank robbery and killing. bob is placed in the facing",POSITIVE,0.8868911266326904
+882,0.535025954246521,"the two form a partnership in crime. after several bank robberies, marie and jimmy agree that after one",POSITIVE,0.9975155591964722
+886,0.5112333297729492,"near the town of oakdale, news of a bank robbery in oakdale has put mrs. van go",NEGATIVE,0.5487646460533142
+886,0.5299743413925171,"the house from mr. fleming, the oakdale bank president, who is in europe. the chief suspect",POSITIVE,0.9783002734184265
+886,0.5396573543548584,"who is in europe. the chief suspect in the bank robbery, a cashier, has disappeared. mrs",NEGATIVE,0.9969025254249573
+886,0.5845613479614258,fleming isn ’ t in europe but robbed his own bank. he accuses the doctor of being part of,NEGATIVE,0.9969808459281921
+887,0.5874024033546448,"sidekick, coloso, are planning to rob a bank. they are pursued by "" bob cat "" manners",NEGATIVE,0.7221554517745972
+887,0.6286073327064514,"and his posse. as they close in on the bank, owned by perkins, montero becomes involved in",POSITIVE,0.9883881211280823
+908,0.5286835432052612,"in love with nan. enter the villain, a bank robber ( how did he get through the snow?",POSITIVE,0.6692522168159485
+938,0.5777451992034912,"bill "" kearney, and jose, rob the bank in the town of new jerusalem. jose and the",NEGATIVE,0.6391116976737976
