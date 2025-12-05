@@ -19,10 +19,18 @@ This task extends the Word Sense Disambiguation (WSD) system to analyze the sent
 
 ## Usage
 
+### Local Execution
 Run the analysis script from the root directory:
 
 ```bash
 python Task2/run_analysis.py --word "bank" --definition "A financial institution" --limit 1000
+```
+
+### Docker Execution
+You can also run this task inside the Docker container. From the project root:
+```bash
+docker build -t bert-wsd-sentiment .
+docker run -it bert-wsd-sentiment python Task2/run_analysis.py --word "bank" --definition "A financial institution" --limit 1000
 ```
 
 **Arguments:**

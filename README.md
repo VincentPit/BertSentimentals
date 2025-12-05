@@ -31,6 +31,31 @@ Analyzes the sentiment (Positive/Negative) of the contexts where the target word
 *   [Sentiment Results (CSV)](Task2/sentiment_results_cell.csv)
 *   [Sentiment Distribution Plot](Task2/sentiment_plot_cell.png)
 
+## Docker Usage
+
+You can run this project in a Docker container to ensure a consistent environment.
+
+### 1. Build the Image
+```bash
+docker build -t bert-wsd-sentiment .
+```
+
+### 2. Run the Container
+Run the container interactively:
+```bash
+docker run -it bert-wsd-sentiment
+```
+
+### 3. Run Scripts Inside Docker
+Once inside the container, you can run the scripts as usual:
+```bash
+# Run Task 1
+python Task1/main.py --word "bank" --definition "A financial institution"
+
+# Run Task 2
+python Task2/run_analysis.py --word "bank" --definition "A financial institution"
+```
+
 ## Limitations
 1. **Threshold Sensitivity**: The system relies on a fixed cosine similarity threshold (0.50). While optimized stochastically, it may not be perfect for every word.
 2. **Context Window**: The sentiment analysis is limited to a fixed window around the target word. Important sentiment-bearing words outside this window might be missed.

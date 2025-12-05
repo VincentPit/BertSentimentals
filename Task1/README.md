@@ -25,10 +25,18 @@ Task1/
 
 ## Setup
 
+### Local Setup
 1.  Install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
+
+### Docker Setup
+You can run the system in a Docker container. From the project root:
+```bash
+docker build -t bert-wsd-sentiment .
+docker run -it bert-wsd-sentiment
+```
 
 ## Usage
 
